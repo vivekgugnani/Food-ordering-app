@@ -1,7 +1,7 @@
 # Project Link
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1aac9188-dcf4-46aa-af21-bfb7d189f4f0/deploy-status)](https://app.netlify.com/sites/petuu/deploys)
-https://petuu.netlify.app/allfoods
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1aac9188-dcf4-46aa-af21-bfb7d189f4f0/deploy-status)](https://app.netlify.com/sites/petuu/deploys)<br>
+[Website Link](https://petuu.netlify.app/)
 
 # Getting Started with Create React App
 
